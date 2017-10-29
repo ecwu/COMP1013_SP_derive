@@ -1,2 +1,2 @@
-# SP_y2_haskell
-Structure Programming Assignment &amp; Lab Using Haskell 
+# SP_y2_derive
+Structure Programming Assignment &amp; Lab Using Other language
